@@ -5,12 +5,9 @@ class Program
     static void Main(string[] args)
     {
 
-
-        Day5.Run1();
-        Day5.Run2();
+        Day7.Run1();
+        Day7.Run2();
         
-
-
     }
 
 }
