@@ -86,6 +86,6 @@ class Parser
         number = -1;
         return false;
     }
-
+    
 }
 

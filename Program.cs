@@ -4,9 +4,10 @@ class Program
 
     static void Main(string[] args)
     {
-
-        Day7.Run1();
-        Day7.Run2();
+        Day12 day = new Day12();
+        
+        day.Run1();
+        day.Run2();
         
     }
 
